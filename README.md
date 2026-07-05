@@ -110,4 +110,6 @@ results = best_model.predict(source='circuit_dataset/test/images', conf=0.25, io
 
 ## 📄 License
 
-MIT
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+
+---
